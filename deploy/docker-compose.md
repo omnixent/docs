@@ -99,6 +99,14 @@ yourdomain.com:80, yourdomain.com:443 {
 
 Make sure to replace `yourdomain.com` with your actual domain name.
 
+You can now start Omnixent by typing
+
+```
+$ docker-compose up -d
+```
+
+Happy hacking!
+
 # Upgrading Omnixent via docker-compose
 
 Thanks to `docker-compose`, you can hot-upgrade your Omnixent version by upgrading the Omnixent image version inside of `docker-compose.yml` and then run:
