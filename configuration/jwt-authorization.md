@@ -1,6 +1,5 @@
 # Authorization
 
-At the moment, omnixent only accepts JWT as an authorization method.
 **JWT must be passed with a custom `x-omnixent-auth` HTTP header.**
 
 Just like with all the other configurations, you can configure JWT authorization with an environment variable:

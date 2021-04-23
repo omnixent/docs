@@ -4,7 +4,8 @@
 
 - Configuration
   - [Cache](configuration/cache.md)
-  - [JWT Authorization](configuration/authorization.md)
+  - [JWT Authorization](configuration/jwt-authorization.md)
+  - [API Key Authorization](configuration/api-key-authorization.md)
   - [Public APIs](configuration/public-apis.md)
 
 - Deploy
