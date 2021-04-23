@@ -4,10 +4,6 @@
 
 > Discover what people search on the web.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
-
 [GitHub](https://github.com/omnixent)
 [Get Started](#quickstart)
 

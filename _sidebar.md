@@ -13,3 +13,7 @@
   - [Docker](deploy/docker-compose.md)
   - [Heroku](deploy/heroku.md)
   - [Digital Ocean](deploy/digital-ocean.md)
+
+- REST APIs
+
+  - [Public APIs](rest-apis/public-apis.md)
